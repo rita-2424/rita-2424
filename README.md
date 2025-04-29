@@ -13,14 +13,14 @@
 
 ### 🚀 Featured Projects
 
-🔹 **[Smart-Hive AI](https://github.com/rita-2424)**  
+🔹 **[Smart-Hive AI](https://github.com/rita-2424/Smart-Hive-AI)**  
 A 2nd runnersup in the KAPS/Inter-University Hackathon- 2024 (AI for Enterpreneurial Firms).
 With features like predicative analysis, it is a system where small business owners can use AI tools to improve their businesses and take them to the next level.
 
-🔹 **[Micro-Lending System](https://github.com/rita-2424)**  
+🔹 **[Micro-Lending System](https://github.com/rita-2424/micro-lending-system)**  
 A decentralized micro-financing platform powered by smart contracts for secure peer-to-peer lending.Featured in the Avalanche Team 1 Kenya.
 
-🔹 **[Elite Hotel and Booking System](https://github.com/rita-2424)**  
+🔹 **[Elite Hotel and Booking System](https://github.com/rita-2424/elite)**  
 A hotel management and booking system built to streamline reservations and customer experience. Developed in Java, this app allows you to book and reserve hotel commodites in the Elite Hotels and suites.
 
 ---
